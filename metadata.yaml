@@ -1,0 +1,33 @@
+_repo: Golden-Steps-to-Respectability-Usefulness-and-Happiness--13-Being-a-Series-of-Lectures-to-You__14239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austin, John Mather
+    aliases:
+    - Austin, John M. (John Mather)
+    - Austin, J. M. (John Mather)
+    birthdate: 1805
+    deathdate: 1880
+    gutenberg_agent_id: '5426'
+    url: http://www.gutenberg.org/2009/agents/5426
+description: Images of the original pages are available through the Florida Board
+  of Education, Division of Colleges and Universities, PALMM Project, 2001. (Preservation
+  and Access for American and British Children's Literature, 1850-1869.) See http://fulltext10.fcla.edu/cgi/t/text/text-idx?c=juv&amp;idno=UF00001815&amp;format=pdf
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: "Golden Steps to Respectability, Usefulness and Happiness\r\nBeing a Series\
+  \ of Lectures to Youth of Both Sexes, on Character, Principles, Associates, Amusements,\
+  \ Religion, and Marriage"
+url: http://www.gutenberg.org/ebooks/14239
